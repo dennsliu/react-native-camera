@@ -1,18 +1,37 @@
 {
-  "name": "react-native-camera",
-  "repository": {
+  "_from": "github:dennsliu/react-native-camera",
+  "_id": "react-native-camera@2.1.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-camera",
+  "_phantomChildren": {},
+  "_requested": {
     "type": "git",
-    "url": "https://github.com/lwansbrough/react-native-camera.git"
+    "raw": "react-native-camera@github:dennsliu/react-native-camera",
+    "name": "react-native-camera",
+    "escapedName": "react-native-camera",
+    "rawSpec": "github:dennsliu/react-native-camera",
+    "saveSpec": "github:dennsliu/react-native-camera",
+    "fetchSpec": null,
+    "gitCommittish": null
   },
-  "version": "0.8.0",
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:dennsliu/react-native-camera#b06f3c11b58bf92cdfc06a5f83eeb71192a0516d",
+  "_spec": "react-native-camera@github:dennsliu/react-native-camera",
+  "_where": "/Users/redseanet/Documents/change-router",
+  "author": {
+    "name": "Lochlan Wansbrough",
+    "email": "lochie@live.com",
+    "url": "http://lwansbrough.com"
+  },
+  "bugs": {
+    "url": "https://github.com/lwansbrough/react-native-camera/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
   "description": "A Camera component for React Native. Also reads barcodes.",
-  "author": "Lochlan Wansbrough <lochie@live.com> (http://lwansbrough.com)",
-  "peerDependencies": {
-    "react": ">=15.4.0",
-    "react-native": ">=0.40"
-  },
-  "nativePackage": true,
-  "license": "MIT",
   "homepage": "https://github.com/lwansbrough/react-native-camera",
   "keywords": [
     "react-native",
@@ -22,5 +41,17 @@
     "qr",
     "code",
     "barcode"
-  ]
+  ],
+  "license": "MIT",
+  "name": "react-native-camera",
+  "nativePackage": true,
+  "peerDependencies": {
+    "react": ">=15.4.0",
+    "react-native": ">=0.40"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwansbrough/react-native-camera.git"
+  },
+  "version": "2.1.1"
 }
